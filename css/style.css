@@ -788,6 +788,7 @@ linear-gradient(0deg, #30394C, #30394C);
     position: relative;
     top: 50rem;
     padding: 0 5rem;
+    z-index: 1;
 }
 .outer-border{
     width: 100%;
